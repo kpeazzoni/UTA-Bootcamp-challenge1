@@ -4,6 +4,7 @@ collaborators:
 @Christopher Zavala: See repository https://github.com/ChrisZavala
 @Josh Goeke: see repository github.com/joshuagoeke
 @Erin Peifer: see repository @Airen22
+@Kela Hunte: see repository git@github.com:chefkeii/UTS-bootcam-challenge1.git
  
  ## User Story
 
