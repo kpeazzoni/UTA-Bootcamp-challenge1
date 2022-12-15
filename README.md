@@ -1,8 +1,9 @@
 # UTA-Bootcamp-challenge1
 Challenge 1 from UTA Bootcamp
 collaborators:
-@Christopher Zavala: See repository
-@Josh Goeke: see repository
+@Christopher Zavala: See repository https://github.com/ChrisZavala
+@Josh Goeke: see repository github.com/joshuagoeke
+@Erin Peifer: see repository @Airen22
  
  ## User Story
 
