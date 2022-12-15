@@ -1,10 +1,5 @@
 # UTA-Bootcamp-challenge1
 Challenge 1 from UTA Bootcamp
-collaborators:
-@Christopher Zavala: See repository https://github.com/ChrisZavala
-@Josh Goeke: see repository github.com/joshuagoeke
-@Erin Peifer: see repository @Airen22
-@Kela Hunte: see repository git@github.com:chefkeii/UTS-bootcam-challenge1.git
  
  ## User Story
 
@@ -34,3 +29,16 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
+## Final
+
+When inspecting code on Chrome Dev Tools, I made sure that the assessibility rating gave me a check mark and that the page looked clean and was easily readable. In order to accomplish this, I changed the small type font to black so it had better contrast. 
+
+## Credits
+
+```
+collaborators:
+@Christopher Zavala: See repository https://github.com/ChrisZavala
+@Josh Goeke: see repository github.com/joshuagoeke
+@Erin Peifer: see repository @Airen22
+@Kela Hunte: see repository git@github.com:chefkeii/UTS-bootcam-challenge1.git
+```
